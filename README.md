@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mufti Abu naseh</h1>
-<h3 align="center">JUNIOR PROGREMER</h3>
+<h3 align="center">普通の人</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muftiabunaseh0924&label=Profile%20views&color=df11ce&style=plastic" alt="muftiabunaseh0924" /> </p>
 
