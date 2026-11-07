@@ -8,7 +8,7 @@
     "location": "Indonesia",
     "status": "Learning",
     "about": [
-      "Learning software development by building practical Java projects.",
+      "Learning software development by building practical Java and Laravel projects.",
       "Improving coding skills through hands-on practice and real projects."
     ]
   },
@@ -22,6 +22,10 @@
     {
       "name": "Java",
       "description": "Building Java applications with GUI and database integration."
+    },
+    {
+      "name": "Web Development",
+      "description": "Building a Laravel web app with booking logic, role-based access, and online payment integration."
     },
     {
       "name": "Software Development",
@@ -38,6 +42,14 @@
   ],
   "projects": [
     {
+      "name": "GameBox Rent",
+      "url": "https://github.com/muftiabunaseh0924/gamebox-rent",
+      "homepage": "",
+      "focus": "Laravel Web Application",
+      "summary": "A PlayStation 4 & 5 rental system with schedule booking, conflict checks, and role-based access. Online payment is in progress.",
+      "heroLabel": "PS Rental"
+    },
+    {
       "name": "Kasir App",
       "url": "https://github.com/muftiabunaseh0924/App-kasir",
       "homepage": "",
@@ -50,7 +62,12 @@
     "Java",
     "Swing",
     "MySQL",
-    "JDBC"
+    "JDBC",
+    "PHP",
+    "Laravel",
+    "Blade",
+    "Tailwind CSS",
+    "Vite"
   ],
   "links": [
     {
