@@ -3,7 +3,7 @@
   "profile": {
     "name": "Mufti Abu Naseh",
     "username": "muftiabunaseh0924",
-    "headline": "Java Developer | CS Student",
+    "headline": "Java & Laravel Developer | CS Student",
     "affiliation": "Universitas Pamulang",
     "location": "Indonesia",
     "status": "Learning",
@@ -15,7 +15,7 @@
   "research": {
     "primary": "Software Development",
     "direction": "Software Engineering",
-    "themes": "Java / Database / Desktop Apps",
+    "themes": "Java / Laravel / Database / Web & Desktop",
     "narrative": "Learning to build useful software through coding and practical projects."
   },
   "focus": [
@@ -47,7 +47,7 @@
       "homepage": "",
       "focus": "Laravel Web Application",
       "summary": "A PlayStation 4 & 5 rental system with schedule booking, conflict checks, and role-based access. Online payment is in progress.",
-      "heroLabel": "PS Rental"
+      "heroLabel": "Laravel Rental"
     },
     {
       "name": "Kasir App",
