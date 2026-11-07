@@ -15,7 +15,7 @@
 
 ## About Me
 
-Learning software development by building practical Java projects.
+Learning software development by building practical Java and Laravel projects.
 
 Improving coding skills through hands-on practice and real projects.
 
@@ -24,6 +24,7 @@ Improving coding skills through hands-on practice and real projects.
 | Area | What I am exploring |
 | --- | --- |
 | **Java** | Building Java applications with GUI and database integration. |
+| **Web Development** | Building a Laravel web app with booking logic, role-based access, and online payment integration. |
 | **Software Development** | Learning software development through practical projects. |
 | **Databases** | Learning MySQL and SQL through Java applications. |
 | **Desktop Applications** | Building desktop applications using Java Swing. |
@@ -32,6 +33,7 @@ Improving coding skills through hands-on practice and real projects.
 
 | Project | Focus | Why it matters |
 | --- | --- | --- |
+| [**GameBox Rent**](https://github.com/muftiabunaseh0924/gamebox-rent) | Laravel Web Application | A PlayStation 4 & 5 rental system with schedule booking, conflict checks, and role-based access. Online payment is in progress. |
 | [**Kasir App**](https://github.com/muftiabunaseh0924/App-kasir) | Java Desktop Application | A Java cashier application with MySQL for managing products and sales. |
 
 ## Research Direction
@@ -40,7 +42,7 @@ Learning to build useful software through coding and practical projects.
 
 ## Tech Stack
 
-`Java` · `Swing` · `MySQL` · `JDBC`
+`Java` · `Swing` · `MySQL` · `JDBC` · `PHP` · `Laravel` · `Blade` · `Tailwind CSS` · `Vite`
 
 ## Recent Activity
 
